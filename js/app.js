@@ -1,6 +1,6 @@
 /* ================= SERVIDOR ================= */
 
-let servidorActual = localStorage.getItem("srv") || "ody";
+let servidorActual = localStorage.getItem("srv") || "ok;
 
 const srvOk  = document.getElementById("srvOk");
 const srvOdy = document.getElementById("srvOdy");
